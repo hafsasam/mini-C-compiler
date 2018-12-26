@@ -1,5 +1,5 @@
 # mini-C-compiler
-A lexical and syntaxical analyser for basic C code. Outputs errors in terminal and in erreur.txt
+A lexical and syntaxical analyser for basic C code using lex and yacc. Outputs errors in terminal and in erreur.txt
 
 ## HOW TO USE
 ### Compiling :
